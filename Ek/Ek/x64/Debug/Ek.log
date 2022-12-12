@@ -1,0 +1,13 @@
+﻿  Ek.cpp
+D:\VsC++\Ek\Ek\Ek.cpp(6,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VsC++\Ek\Ek\Ek.cpp(32,30): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\VsC++\Ek\Ek\Ek.cpp(34,30): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Ek.vcxproj -> D:\VsC++\Ek\x64\Debug\Ek.exe
